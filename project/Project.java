@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author Shi Rong
+ * @author user
  */
 public class Project {
 
